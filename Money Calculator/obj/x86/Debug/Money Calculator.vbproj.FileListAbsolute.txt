@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Money Calculator\Money Calculator\bin\Debug\Money Calculator.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Money Calculator\Money Calculator\bin\Debug\Money Calculator.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Money Calculator\Money Calculator\bin\Debug\Money Calculator.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Money Calculator\Money Calculator\obj\x86\Debug\Money_Calculator.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Money Calculator\Money Calculator\obj\x86\Debug\Money_Calculator.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Money Calculator\Money Calculator\obj\x86\Debug\Money Calculator.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Money Calculator\Money Calculator\obj\x86\Debug\Money Calculator.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Money Calculator\Money Calculator\obj\x86\Debug\Money Calculator.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WorkOFfline\Money Calculator\Money Calculator\obj\x86\Debug\Money Calculator.pdb
